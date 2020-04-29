@@ -1,6 +1,7 @@
 title: What a Wonderful Day!
 author: Deko
 email: your-email@domain.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
 
